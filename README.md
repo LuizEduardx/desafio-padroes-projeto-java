@@ -35,5 +35,8 @@ App.java
 - Como executar:
 Abra o projeto em uma IDE Java e execute `br.com.dio.padroes.App`.
 
+- Requisitos:
+Java 17 ou superior.
+
 - Objetivo:
 Demonstrar na prática como padrões de projeto ajudam a reduzir acoplamento, organizar responsabilidades e facilitar a evolução do código.
